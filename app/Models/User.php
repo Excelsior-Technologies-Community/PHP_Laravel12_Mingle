@@ -58,7 +58,6 @@ class User extends Authenticatable
     {
         return $this->hasMany(Post::class);
     }
-
     // Many-to-Many: Users who follow this user
     public function followers()
     {
