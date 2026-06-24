@@ -686,8 +686,3 @@ PHP_Laravel12_Mingle/
 ---
 
 Your PHP_Laravel12_Mingle Project is now ready!
-<<<<<<< HEAD
-
-
-=======
->>>>>>> development
